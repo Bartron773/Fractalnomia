@@ -1,4 +1,3 @@
----
 
 *We become through repetition.*  
 *We flourish through relationship.*  
