@@ -49,6 +49,15 @@ Not prediction. Not optimization. **Stewardship.**
 
 ---
 
+
+## About
+
+**Bart Salazar**
+Creative Director · Systems Thinker · Artist
+[Simple Minds Studios](https://simplemindsstudios.com)
+
+Fractalnomia is part of the Becoming Atlas — a larger body of work exploring presence, practice, flourishing, and belonging.
+
 ## Quick Start
 
 ```bash
